@@ -1,4 +1,4 @@
-on the application file, you have two functions
+on application.py file, you have two functions
 1) get_notifications_to_send():
   there you can put the examples you want to test the application, I added a first boolean parameter to test if the application is working correctly, on the other function is testing if the message was sent or not depends on this boolean
 
